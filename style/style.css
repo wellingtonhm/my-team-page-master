@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+:root {
+    font-size: 16px;
+}
+
+/****  HEADER  *****/
+
+/*  Logo  */
+
+#logo{
+    font-family: 'PT Serif', serif;
+    font-size: 2.25rem;
+}
+
+/****  MAIN  *****/
+
+/****  FOOTER  *****/
