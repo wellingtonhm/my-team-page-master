@@ -8,6 +8,10 @@
     margin: 0;
 }
 
+body {
+    margin: 1rem;
+}
+
 /****  HEADER  *****/
 
 .logo {
@@ -24,7 +28,7 @@
 .container-text p {
     font-weight: 400;
     font-size: 0.875rem;
-
+    margin-bottom: 3.25rem;
 }
 
 #header {
@@ -35,17 +39,21 @@
 #content {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    /*column-gap: 0.4rem;*/
+}
 
+.container-member-area:nth-child(2n) {
+    margin-top: 4rem;
 }
 
 figure {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 2.625rem;
     margin: 0;
+    justify-items: start;
     
-    align-items: start;
-
 }
+
 
 .employee-photo {
     width: 100%;
@@ -54,12 +62,12 @@ figure {
 
 
 .employee-department {
-    transform: rotate(90deg);
-
-}
-.employee-department p{
-    margin:0;
-
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    writing-mode: vertical-lr;
+    margin-left: 0.4rem;
 }
 
 .employee-name {
@@ -70,3 +78,14 @@ figure {
 
 
 /****  FOOTER  *****/
+
+.copyright-create {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #BDBDBD;
+    text-align: center;
+
+}
