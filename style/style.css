@@ -1,18 +1,72 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 :root {
     font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin: 0;
 }
 
 /****  HEADER  *****/
 
-/*  Logo  */
-
-#logo{
+.logo {
     font-family: 'PT Serif', serif;
+    font-weight: 700;
     font-size: 2.25rem;
 }
 
+.container-text h2 {
+
+    font-size: 1.125rem;
+}
+
+.container-text p {
+    font-weight: 400;
+    font-size: 0.875rem;
+
+}
+
+#header {
+    display: grid;
+}
+
 /****  MAIN  *****/
+#content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+figure {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0;
+    
+    align-items: start;
+
+}
+
+.employee-photo {
+    width: 100%;
+    height: 100%;
+}
+
+
+.employee-department {
+    transform: rotate(90deg);
+
+}
+.employee-department p{
+    margin:0;
+
+}
+
+.employee-name {
+    font-size: 0.875rem;
+    margin-top: 0.625rem;
+}
+
+
 
 /****  FOOTER  *****/
