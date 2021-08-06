@@ -92,7 +92,7 @@ figure {
 
 /****  DESKTOP  *****/
 
-@media(min-width: 950px) {
+@media(min-width: 980px) {
     #header {
         grid-template-columns: 1fr 1fr;
         align-items: start;
