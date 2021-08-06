@@ -33,7 +33,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-Este aplicativo / site foi criado como uma submissão a um desafio [DevChallenges](https://devchallenges.io/challenges) challenge. O [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir uma pagina web de erro 404 seguindo o Design do Figma.
+Este aplicativo / site foi criado como uma submissão a um desafio [DevChallenges](https://devchallenges.io/challenges) challenge. O [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir uma pagina de uma equipe seguindo o Design do Figma.
 
 ### Construido com
 
