@@ -1,4 +1,4 @@
-<h1 align="center">Recipe page master</h1>
+<h1 align="center">My team page master</h1>
 
 <div align="center">
    Solução para um desafio de  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
