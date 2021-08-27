@@ -1,6 +1,4 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">My team page</h1>
+<h1 align="center">Recipe page master</h1>
 
 <div align="center">
    Solução para um desafio de  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -9,6 +7,10 @@
 <div align="center">
   <h3>
     <a href="https://wellingtonhm.github.io/my-team-page-master/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/wellingtonhm/my-team-page-master">
       Solução
     </a>
     <span> | </span>
@@ -20,28 +22,28 @@
 
 <!-- TABLE OF CONTENTS -->
 
+![screenshot](https://raw.githubusercontent.com/wellingtonhm/my-team-page-master/master/src/my-team-page-master.png)
+
 ## Indice
 
-- [Visão Geral](#Visão-Geral)
-  - [Construido com](#Construido-com)
-- [Contato](#Contato)
-
-
-<!-- OVERVIEW -->
+- [Visão Geral](#visão-geral)
+- [Tecnologia](#tecnologia)
+- [Contato](#contato)
 
 ## Visão Geral
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Este site foi criado como resultado a um desafio [DevChallenges](https://devchallenges.io/challenges).
 
-Este aplicativo / site foi criado como uma submissão a um desafio [DevChallenges](https://devchallenges.io/challenges) challenge. O [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir uma pagina de uma equipe seguindo o Design do Figma.
+**Desafio:** Criar a página da minha equipe seguindo o design. A página deve ser responsiva. Preencher requisitos abaixo:
 
-### Construido com
+- Ver uma página seguindo o design fornecido
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+Seguir este design: Link [Figma](https://www.figma.com/file/F8d1qJsorEdY47N74HLxQ4) 
+
+## Tecnologia
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Contato
 
